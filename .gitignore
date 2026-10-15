@@ -1,0 +1,14 @@
+﻿# Python virtual environments
+.venv/
+.venv-rebuild/
+
+# Environment variables and local secrets
+.env
+.env.*
+
+# Keep an example template if one is added later
+!.env.example
+
+# Python-generated files
+__pycache__/
+*.py[cod]
