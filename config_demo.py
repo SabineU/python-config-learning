@@ -3,6 +3,7 @@ import os
 from dotenv import load_dotenv
 from urllib.parse import urlparse
 
+# Load .env settings without overriding existing environment variables.
 load_dotenv()
 
 app_mode = os.getenv("APP_MODE", "development")
