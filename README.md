@@ -51,3 +51,7 @@ python config_demo.py
 The example validates the configuration and prints the selected application mode, API base URL, and timeout.
 
 **Security:** Do not commit real credentials, API keys, tokens, or other secrets. The `.env` file is intended to remain local.
+
+## Learning Goals
+
+This project is used to practice Python configuration, dependency management, version control, and reproducible development workflows.
