@@ -55,3 +55,7 @@ The example validates the configuration and prints the selected application mode
 ## Learning Goals
 
 This project is used to practice Python configuration, dependency management, version control, and reproducible development workflows.
+
+## Git Workflow Practice
+
+This section demonstrates how to propose project documentation changes through a pull request.
